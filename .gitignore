@@ -1,0 +1,21 @@
+# Data files
+*.nwb
+*.parquet
+*.csv
+
+# Images / plots
+*.png
+*.jpg
+*.jpeg
+
+# Pipeline outputs
+bundles/
+data/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
