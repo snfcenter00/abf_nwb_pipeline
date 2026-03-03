@@ -5,7 +5,7 @@ A unified pipeline for analyzing **intracellular electrophysiology recordings** 
 - **NWB (Neurodata Without Borders)** files  
 - **ABF (Axon Binary Format)** files  
 
-The pipeline performs **sweep classification, spike detection, membrane property analysis, and visualization** for current-clamp experiments.
+The pipeline performs **sweep classification, spike detection, membrane property analysis, and visualization** for current-clamp and voltage-clamp experiments.
 
 ---
 
